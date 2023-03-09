@@ -1,0 +1,21 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "PYTHON_ENABLE_WORKER_EXTENSIONS": "0",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "",
+    "AzureWebJobsStorage": "",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "",
+    "WEBSITE_CONTENTSHARE": "",
+    "report_storage": "",
+    "OPENAI_API_KEY": "",
+    "OPENAI_API_BASE": "",
+    "OPENAI_API_TYPE": "azure",
+    "OPENAI_API_VERSION": "2022-12-01",
+    "OPENAI_DEPLOYMENT_ID_SUMMARIZE": "edvandavinci3",
+    "OPENAI_DEPLOYMENT_ID_EMBEDDINGS": "text-embedding-ada-002"
+  }
+}

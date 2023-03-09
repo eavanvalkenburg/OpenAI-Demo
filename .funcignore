@@ -1,0 +1,14 @@
+.git*
+.vscode
+local.settings.json
+template.settings.json
+report
+runs
+seperate_src
+test
+prompts
+test
+.venv
+.flake8
+sample_data/*
+README.md

@@ -1,0 +1,18 @@
+
+POST http://localhost:7071/api/query/company HTTP/1.1
+content-type: application/json
+
+{
+    "query": "What was the increase in revenue between 2021 and 2022?"
+}
+
+###
+POST http://localhost:7071/api/parse_report HTTP/1.1
+content-type: application/json
+
+{
+    "company": "adventure_works",
+    "year": 2019,
+    "name": "adventure-works-2019.pdf"
+}
+###
